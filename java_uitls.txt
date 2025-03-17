@@ -1,0 +1,4 @@
+ - Record (DTO)
+ - Mapper
+ - Stream
+ - Redme.so (Site para criar Redeme.md)
